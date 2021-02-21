@@ -1,0 +1,9 @@
+* strong recommend: 
+	const person = () => {}
+*  tôi không muốn sa đà vào tranh cãi những vấn đề không có tính khoa học.
+
+*  tôi không có ý định thay đổi niềm tin của bạn
+
+* Tôi đâu có nói là tôi hơn ai, đó là bạn tự nghĩ
+
+* Xét cho cùng họ cũng chỉ muốn chứng tỏ bản thân họ chứ không muốn hiểu những gì tôi nói.
