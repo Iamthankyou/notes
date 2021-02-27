@@ -1,0 +1,7 @@
+* All steps in Linear Regression
+	1. Visualize data
+	2. Model
+	3. Loss function
+	4. Find param by loss function
+	5. TRY 
+
